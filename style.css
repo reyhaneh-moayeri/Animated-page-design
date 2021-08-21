@@ -46,7 +46,7 @@ body {
   background: url("./img/img-right.jpg") no-repeat 50% 50%;
   background-size: 100%;
   animation: animatedBackground1 6s cubic-bezier(0.19, 1, 0.22, 1);
-  animation-delay: 5s;
+  animation-delay: 6s;
 }
 
 @keyframes animatedBackground1 {
@@ -68,7 +68,7 @@ body {
   background: url("./img/img-left.jpg") no-repeat 50% 50%;
   background-size: 100%;
   animation: animatedBackground2 6s cubic-bezier(0.19, 1, 0.22, 1);
-  animation-delay: 5s;
+  animation-delay: 6s;
   transition: 1s;
 }
 
